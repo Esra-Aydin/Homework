@@ -1,1 +1,2 @@
-# Homework
+# HOMEWORK & ASSIGNMENT GİVEN BY THE DEPARTMENT OF COMPUTER ENGİNEERİNG,ADNAN MENDERES UNİVERSİTY.
+CSE203 || Object-Oriented Programming: After the workouts,preparing you to embark on the journey of the learning Java.Begin to learn fundamental  programming techniques. Java is an object-oriented programming language.You will learn programming with objects and classes that uses abstractions,encapsulation,inheritance and polymorhism.Also,You will be able to use JavaFx.
