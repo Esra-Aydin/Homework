@@ -9,3 +9,11 @@ CSE214 || Statistical Programming: That course is designed with R programming la
 CSE315 || Machine Learning: This folder includes a collection of hands-on machine learning projects I completed during the course. These projects cover both fundamental and advanced machine learning techniques.With this folder, you will learn how to implement classification  regression,clustering models, as well as apply texture segmentation techniques to real-world datasets.Built and evaluated classification models for categorical prediction tasks.Developed regression models to analyze and predict continuous variables.Implemented clustering algorithms to discover hidden structures and groupings within unlabeled data.Applied texture-based image segmentation to detect and separate patterns in images.All projects were completed using real-world datasets provided by the instructor.
 
 CSE423 || Cloud Computing: As part of my hands-on training in cloud computing, I performed a large-scale word count operation on a 10 GB text dataset using Apache Spark on AWS EMR (Elastic MapReduce).With this folder, you will learn how to use AWS to create a cluster and process large datasets efficiently in distributed environments.Implemented a word count algorithm to process a dataset of over 10GB.Leveraged the power of Spark’s distributed computation to handle large-scale data efficiently.Stored and accessed data via Amazon S3 for scalable and fault-tolerant processing.Deployed Spark jobs on AWS EC2 instances using AWS EMR.
+
+CSE438 || Introduction to Meta Heuristics: This folder includes a comprehensive optimization project focused on the Surrogate-Assisted Optimization of a 10-Bar Truss Structure Design Problem. The project provides hands-on experience in implementing population-based meta-heuristic algorithms for solving constrained structural engineering optimization problems.
+With this folder, you will learn how to:
+• Formulate and solve a constrained structural optimization problem
+• Implement a Genetic Algorithm (GA) from scratch
+• Apply an additional meta-heuristic optimization algorithm
+• Integrate surrogate models to reduce computational cost
+• Compare algorithm performance based on fitness value and execution time
